@@ -30,7 +30,7 @@ author:
   location         : "Tucson, AZ, USA"
   employer         : "University of Arizona"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "maddiewallace@arizona.edu" 
 
   # Academic websites
   academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "@mmaddiewallace.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "mmaddiewallace.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
