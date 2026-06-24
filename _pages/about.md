@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD candidate in the School of Natural Resources and the Environment at the University of Arizona, working with <a href="https://mitchell-ecology.com" target="_blank" rel="noopener">Dr. Rachel Mitchell</a>. Generally, I am interested in how plant populations and communities change through space and time, and how we can apply that knowledge to effectively manage and restore landscapes. I also believe the best land stewardship starts early, and I'm deeply committed to environmental education that gets young people outdoors and nurtures their curiosity, agency, and sense of place.
+I'm a fourth-year PhD candidate in the School of Natural Resources and the Environment at the University of Arizona, working with <a href="https://mitchell-ecology.com" target="_blank" rel="noopener">Dr. Rachel Mitchell</a>. Generally, I am interested in how plant populations and communities change through space and time, and how we can apply that knowledge to effectively manage and restore landscapes. I also believe the best land stewardship starts early, and I'm deeply committed to environmental education that gets young people outdoors to nurture their curiosity, agency, and sense of place.
 
 I work at the <a href="https://santarita.arizona.edu" target="_blank" rel="noopener">Santa Rita Experimental Range</a>, one of the longest continuously operated ecological research sites in the US. Using long-term data, field surveys, and plant functional traits, I track how arid community composition and diversity has shifted, and what those shifts suggest for drylands facing a drier future. You can read more on my [Research page](/research/).
 
