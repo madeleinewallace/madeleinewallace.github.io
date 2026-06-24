@@ -9,15 +9,11 @@ author_profile: true
 
 ---
 
-## in review or revision
+## in prep or review
 
 **Wallace, M.**, Mitchell, R.M. Transgenerational plasticity in response to water limitation leads to reductions in fitness in *Plantago patagonica*, an arid-adapted annual plant. *Oecologia*.
 
 Javier, V.\*, **Wallace, M.**, Goolsby, D.C.\*, Mitchell, R.M. *Oncosiphon pilulifer*, a rapidly expanding invader, exhibits local adaptation to dry conditions. *AoB Plants*.
-
----
-
-## in prep
 
 ---
 
