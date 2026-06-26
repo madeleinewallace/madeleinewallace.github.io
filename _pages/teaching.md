@@ -11,7 +11,7 @@ author_profile: true
 
 ## Outdoor & Community Education
 
-### Community Action for Biodiversity Fellow, <a href="https://uarizona-lovejoy-url.edu" target="_blank" rel="noopener">Lovejoy Center</a>, UA (2025 to present)
+### Community Action for Biodiversity Fellow, <a href="https://lovejoycenter.arizona.edu" target="_blank" rel="noopener">Lovejoy Center</a>, UA (2025 to present)
 
 The Community Action for Biodiversity (CAB) fellowship connects graduate students with local nonprofits to apply their technical expertise to real conservation and education projects in the community. As a CAB fellow, I work with <a href="https://ironwoodtreeexperience.org" target="_blank" rel="noopener">Ironwood Tree Experience</a>, a nonprofit centered on youth, community, and nature. With Ironwood Tree Experience and <a href="https://www.pima.gov/3450/Stormwater-Parks" target="_blank" rel="noopener">Pima County's Regional Flood Control District</a>, I work on the W.A.T.E.R program (Water Advocates Training in Ecology, Equity, and Resilience), which turns green stormwater parks across Tucson into outdoor classrooms for high school students. I develop hands-on lessons on native plants, soil, insects, and urban ecology, and co-lead field days as the science lead for classes of 5 to 30 students. The program builds watershed literacy and environmental leadership for youth in the neighborhoods these stormwater parks serve.
 
