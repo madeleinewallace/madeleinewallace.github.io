@@ -7,6 +7,8 @@ author_profile: true
 
 I believe science should be accessible, participatory, and grounded in place. Most of my teaching happens outdoors and in the community, with K-12 students and the public. As an educator, my priorities are curiosity, agency, and connection to place. I want students to feel at home and safe in their local ecosystems, and to feel empowered to care for and advocate for the land around them. The experiences I've had in environmental education shape my identity as a scientist as much as my research does.
 
+---
+
 ## Outdoor & Community Education
 
 ### Community Action for Biodiversity Fellow, Lovejoy Center, UA (2025 to present)
@@ -17,6 +19,8 @@ I teach place-based and inquiry-led science programs to K-12 students on Mt. Lem
 
 ### Trip Leader, Girls on Outdoor Adventure for Leadership and Science (GALS), SARSEF (2023 to present)
 I help lead a free, week-long backcountry program in the Chiricahua Mountains that brings high school girls into the field as scientists. Over the week, participants run soil surveys, track wildlife, create botanical art, and build leadership and self-reliance skills, with mentorship that continues through the school year.
+
+---
 
 ## Teaching
 
