@@ -10,13 +10,13 @@ author_profile: true
 ---
 ## Outdoor & Community Education
 
-### Community Action for Biodiversity Fellow, Lovejoy Center, UA (2025 to present)
-The Community Action for Biodiversity (CAB) fellowship connects graduate students with local nonprofits to apply their technical expertise to real conservation and education projects in the community. As a CAB fellow, I work with Ironwood Tree Experience, a nonprofit centered on youth, community, and nature. With Ironwood Tree Experience and Pima County's Regional Flood Control District, I work on the W.A.T.E.R program (Water Advocates Training in Ecology, Equity, and Resilience), which turns green stormwater parks across Tucson into outdoor classrooms for high school students. I develop hands-on lessons on native plants, soil, insects, and urban ecology, and co-lead field days as the science lead for classes of 5 to 30 students. The program builds watershed literacy and environmental leadership for youth in the neighborhoods these stormwater parks serve.
+### Community Action for Biodiversity Fellow, [Lovejoy Center](https://uarizona-lovejoy-url.edu), UA (2025 to present)
+The Community Action for Biodiversity (CAB) fellowship connects graduate students with local nonprofits to apply their technical expertise to real conservation and education projects in the community. As a CAB fellow, I work with [Ironwood Tree Experience](https://ironwoodtreeexperience.org), a nonprofit centered on youth, community, and nature. With Ironwood Tree Experience and [Pima County's Regional Flood Control District](https://www.pima.gov/3450/Stormwater-Parks), I work on the W.A.T.E.R program (Water Advocates Training in Ecology, Equity, and Resilience), which turns green stormwater parks across Tucson into outdoor classrooms for high school students. I develop hands-on lessons on native plants, soil, insects, and urban ecology, and co-lead field days as the science lead for classes of 5 to 30 students. The program builds watershed literacy and environmental leadership for youth in the neighborhoods these stormwater parks serve.
 
-### Outdoor Educator, Mt. Lemmon Sky School, UA (2024 to present)
+### Outdoor Educator, [Mt. Lemmon Sky School](https://skyschool.arizona.edu), UA (2024 to present)
 I teach place-based and inquiry-led science programs to K-12 students on Mt. Lemmon during multi-day science camp trips. For younger students, this includes building observation skills, developing a sense of place, and nature exploration. For older students, this includes developing participants' scientific method skills and guiding them through their own research projects in small groups.
 
-### Trip Leader, Girls on Outdoor Adventure for Leadership and Science (GALS), SARSEF (2023 to present)
+### Trip Leader, [Girls on Outdoor Adventure for Leadership and Science (GALS)](https://sarsef.org/programs/stem-exploration/gals-arizona/), SARSEF (2023 to present)
 I help lead a free, week-long backcountry program in the Chiricahua Mountains that brings high school girls into the field as scientists. Over the week, participants run soil surveys, track wildlife, create botanical art, and build leadership and self-reliance skills, with mentorship that continues through the school year.
 
 ---
