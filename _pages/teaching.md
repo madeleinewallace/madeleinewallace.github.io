@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I believe science should be accessible, participatory, and grounded in place. Most of my teaching happens outdoors and in the community, with K-12 students and the public. As an educator, my priorities are curiosity, agency, and connection to place. I want students to feel at home and safe in their local ecosystems, and to feel empowered to care for and advocate for the land around them. The experiences I've had in environmental education shape my identity as a scientist as much as my research does.
+<!-- I believe science should be accessible, participatory, and grounded in place. -->Most of my teaching happens outdoors and in the community, with K-12 students and the public. As an educator, my priorities are curiosity, agency, and connection to place. I want students to feel at home and safe in their local ecosystems, and to feel empowered to care for and advocate for the land around them. The experiences I've had in environmental education shape my identity as a scientist as much as my research does.
 
 ---
 ## Outdoor & Community Education
